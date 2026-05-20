@@ -1,0 +1,507 @@
+{
+  "type": "custom",
+  "status": "success",
+  "parser_version": "3.0.3",
+  "modification_time": "2018-09-15T09:06:02.110054+00:00",
+  "filesystem": {
+    "name": "28c8b86deab549a1.customDestinations-ms",
+    "path": "/tmp/abcdefg/28c8b86deab549a1.customDestinations-ms",
+    "hostname": "jumplist_parser",
+    "size": 5149,
+    "modification_time": "2023-07-25T14:03:25+00:00",
+    "access_time": "2023-07-25T14:06:47+00:00",
+    "creation_time": "2023-07-25T14:04:47+00:00",
+    "application": {
+      "app_id": "28c8b86deab549a1",
+      "name": "Internet Explorer 8.0.7600.16385 / 9"
+    }
+  },
+  "version": 2,
+  "reserved0": 1,
+  "reserved1": 0,
+  "header_value_type": 2,
+  "text": null,
+  "entry_count": 3,
+  "lnk": [
+    {
+      "type": "lnk",
+      "status": "success",
+      "modification_time": "2018-09-15T09:06:02.110054+00:00",
+      "header": {
+        "guid": "00021401-0000-0000-C000-000000000046",
+        "r_link_flags": 10502371,
+        "r_file_flags": 32,
+        "modification_time": "2018-09-15T09:06:02.110054+00:00",
+        "access_time": "2018-09-15T09:06:02.110054+00:00",
+        "creation_time": "2018-09-15T09:06:02.110054+00:00",
+        "file_size": 826704,
+        "icon_index": -31078,
+        "windowstyle": "SW_SHOWNORMAL",
+        "hotkey": "UNSET - UNSET {0x0000}",
+        "r_hotkey": 0,
+        "link_flags": [
+          "HasTargetIDList",
+          "HasLinkInfo",
+          "HasArguments",
+          "HasIconLocation",
+          "IsUnicode",
+          "HasExpIcon",
+          "DisableKnownFolderTracking",
+          "AllowLinkToLink"
+        ],
+        "file_flags": [
+          "FILE_ATTRIBUTE_ARCHIVE"
+        ],
+        "header_size": 76,
+        "reserved0": 0,
+        "reserved1": 0,
+        "reserved2": 0
+      },
+      "target": {
+        "size": 397,
+        "items": [
+          {
+            "class": "Root Folder",
+            "sort_index": "My Computer",
+            "guid": "20D04FE0-3AEA-1069-A2D8-08002B30309D"
+          },
+          {
+            "class": "Volume Item",
+            "flags": "0xf",
+            "data": "C:\\"
+          },
+          {
+            "class": "File entry",
+            "flags": "Is directory",
+            "file_size": 0,
+            "modification_time": "2020-12-18T15:20:24+00:00",
+            "file_attribute_flags": 17,
+            "primary_name": "PROGRA~1"
+          },
+          {
+            "class": "File entry",
+            "flags": "Is directory",
+            "file_size": 0,
+            "modification_time": "2018-09-15T09:06:04+00:00",
+            "file_attribute_flags": 16,
+            "primary_name": "INTERN~1"
+          },
+          {
+            "class": "File entry",
+            "flags": "Is file",
+            "file_size": 826704,
+            "modification_time": "2018-09-15T09:06:04+00:00",
+            "file_attribute_flags": 32,
+            "primary_name": "iexplore.exe"
+          }
+        ],
+        "index": 78
+      },
+      "link_info": {
+        "link_info_size": 94,
+        "link_info_header_size": 28,
+        "link_info_flags": 1,
+        "volume_id_offset": 28,
+        "local_base_path_offset": 45,
+        "common_network_relative_link_offset": 0,
+        "common_path_suffix_offset": 93,
+        "local_base_path": "C:\\Program Files\\internet explorer\\iexplore.exe",
+        "common_path_suffix": "",
+        "location_info": {
+          "volume_id_size": 17,
+          "r_drive_type": 3,
+          "volume_label_offset": 16,
+          "drive_serial_number": "0x420d09c",
+          "drive_type": "DRIVE_FIXED",
+          "volume_label": ""
+        },
+        "location": "Local"
+      },
+      "data": {
+        "command_line_arguments": "-private",
+        "icon_location": "C:\\Windows\\SYSTEM32\\IEFRAME.dll",
+        "size": 82
+      },
+      "extra": {
+        "ICON_LOCATION_BLOCK": {
+          "size": 788,
+          "target_ansi": "%SystemRoot%\\SYSTEM32\\IEFRAME.dll",
+          "target_unicode": "%SystemRoot%\\SYSTEM32\\IEFRAME.dll"
+        },
+        "DISTRIBUTED_LINK_TRACKER_BLOCK": {
+          "size": 96,
+          "length": 88,
+          "version": 0,
+          "machine_identifier": "apps2019-sp",
+          "droid_volume_identifier": "A09F0A4A-FE8A-44F4-A8D0-C14A2E0FA8C4",
+          "droid_file_identifier": "7ACB897A-411B-11EB-8890-00155D0664F9",
+          "droid_file_timestamp": "2020-12-18T10:26:24.501388+00:00",
+          "droid_file_mft_seq": 37000,
+          "droid_file_mac": "00:15:5D:06:64:F9",
+          "droid_file_vendor": "Microsoft Corporation",
+          "birth_droid_volume_identifier": "A09F0A4A-FE8A-44F4-A8D0-C14A2E0FA8C4",
+          "birth_droid_file_identifier": "7ACB897A-411B-11EB-8890-00155D0664F9",
+          "birth_droid_file_timestamp": "2020-12-18T10:26:24.501388+00:00",
+          "birth_droid_file_mft_seq": 37000,
+          "birth_droid_file_mac": "00:15:5D:06:64:F9",
+          "birth_droid_file_vendor": "Microsoft Corporation"
+        },
+        "METADATA_PROPERTIES_BLOCK": {
+          "size": 166,
+          "property_store": [
+            {
+              "storage_size": 97,
+              "version": "0x53505331",
+              "format_id": "F29F85E0-4FF9-1068-AB91-08002B27B3D9",
+              "serialized_property_values": [
+                {
+                  "value_size": 69,
+                  "id": 2,
+                  "value": "Start InPrivate Browsing",
+                  "value_type": "VT_LPWSTR"
+                }
+              ]
+            },
+            {
+              "storage_size": 57,
+              "version": "0x53505331",
+              "format_id": "446D16B1-8DAD-4870-A748-402EA43D788C",
+              "serialized_property_values": [
+                {
+                  "value_size": 29,
+                  "id": 104,
+                  "value": "69341581-5B9C-456C-90FC-11DEF4BA1F2F",
+                  "value_type": "VT_CLSID"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "size": 1705,
+      "info": {
+        "guid": "00021401-0000-0000-C000-000000000046"
+      }
+    },
+    {
+      "type": "lnk",
+      "status": "success",
+      "modification_time": "2018-09-15T09:06:02.110054+00:00",
+      "header": {
+        "guid": "00021401-0000-0000-C000-000000000046",
+        "r_link_flags": 10502371,
+        "r_file_flags": 32,
+        "modification_time": "2018-09-15T09:06:02.110054+00:00",
+        "access_time": "2018-09-15T09:06:02.110054+00:00",
+        "creation_time": "2018-09-15T09:06:02.110054+00:00",
+        "file_size": 826704,
+        "icon_index": -31062,
+        "windowstyle": "SW_SHOWNORMAL",
+        "hotkey": "UNSET - UNSET {0x0000}",
+        "r_hotkey": 0,
+        "link_flags": [
+          "HasTargetIDList",
+          "HasLinkInfo",
+          "HasArguments",
+          "HasIconLocation",
+          "IsUnicode",
+          "HasExpIcon",
+          "DisableKnownFolderTracking",
+          "AllowLinkToLink"
+        ],
+        "file_flags": [
+          "FILE_ATTRIBUTE_ARCHIVE"
+        ],
+        "header_size": 76,
+        "reserved0": 0,
+        "reserved1": 0,
+        "reserved2": 0
+      },
+      "target": {
+        "size": 397,
+        "items": [
+          {
+            "class": "Root Folder",
+            "sort_index": "My Computer",
+            "guid": "20D04FE0-3AEA-1069-A2D8-08002B30309D"
+          },
+          {
+            "class": "Volume Item",
+            "flags": "0xf",
+            "data": "C:\\"
+          },
+          {
+            "class": "File entry",
+            "flags": "Is directory",
+            "file_size": 0,
+            "modification_time": "2020-12-18T15:20:24+00:00",
+            "file_attribute_flags": 17,
+            "primary_name": "PROGRA~1"
+          },
+          {
+            "class": "File entry",
+            "flags": "Is directory",
+            "file_size": 0,
+            "modification_time": "2018-09-15T09:06:04+00:00",
+            "file_attribute_flags": 16,
+            "primary_name": "INTERN~1"
+          },
+          {
+            "class": "File entry",
+            "flags": "Is file",
+            "file_size": 826704,
+            "modification_time": "2018-09-15T09:06:04+00:00",
+            "file_attribute_flags": 32,
+            "primary_name": "iexplore.exe"
+          }
+        ],
+        "index": 78
+      },
+      "link_info": {
+        "link_info_size": 94,
+        "link_info_header_size": 28,
+        "link_info_flags": 1,
+        "volume_id_offset": 28,
+        "local_base_path_offset": 45,
+        "common_network_relative_link_offset": 0,
+        "common_path_suffix_offset": 93,
+        "local_base_path": "C:\\Program Files\\internet explorer\\iexplore.exe",
+        "common_path_suffix": "",
+        "location_info": {
+          "volume_id_size": 17,
+          "r_drive_type": 3,
+          "volume_label_offset": 16,
+          "drive_serial_number": "0x420d09c",
+          "drive_type": "DRIVE_FIXED",
+          "volume_label": ""
+        },
+        "location": "Local"
+      },
+      "data": {
+        "command_line_arguments": "-newtab",
+        "icon_location": "C:\\Windows\\SYSTEM32\\IEFRAME.dll",
+        "size": 80
+      },
+      "extra": {
+        "ICON_LOCATION_BLOCK": {
+          "size": 788,
+          "target_ansi": "%SystemRoot%\\SYSTEM32\\IEFRAME.dll",
+          "target_unicode": "%SystemRoot%\\SYSTEM32\\IEFRAME.dll"
+        },
+        "DISTRIBUTED_LINK_TRACKER_BLOCK": {
+          "size": 96,
+          "length": 88,
+          "version": 0,
+          "machine_identifier": "apps2019-sp",
+          "droid_volume_identifier": "A09F0A4A-FE8A-44F4-A8D0-C14A2E0FA8C4",
+          "droid_file_identifier": "7ACB897A-411B-11EB-8890-00155D0664F9",
+          "droid_file_timestamp": "2020-12-18T10:26:24.501388+00:00",
+          "droid_file_mft_seq": 37000,
+          "droid_file_mac": "00:15:5D:06:64:F9",
+          "droid_file_vendor": "Microsoft Corporation",
+          "birth_droid_volume_identifier": "A09F0A4A-FE8A-44F4-A8D0-C14A2E0FA8C4",
+          "birth_droid_file_identifier": "7ACB897A-411B-11EB-8890-00155D0664F9",
+          "birth_droid_file_timestamp": "2020-12-18T10:26:24.501388+00:00",
+          "birth_droid_file_mft_seq": 37000,
+          "birth_droid_file_mac": "00:15:5D:06:64:F9",
+          "birth_droid_file_vendor": "Microsoft Corporation"
+        },
+        "METADATA_PROPERTIES_BLOCK": {
+          "size": 142,
+          "property_store": [
+            {
+              "storage_size": 73,
+              "version": "0x53505331",
+              "format_id": "F29F85E0-4FF9-1068-AB91-08002B27B3D9",
+              "serialized_property_values": [
+                {
+                  "value_size": 45,
+                  "id": 2,
+                  "value": "Open new tab",
+                  "value_type": "VT_LPWSTR"
+                }
+              ]
+            },
+            {
+              "storage_size": 57,
+              "version": "0x53505331",
+              "format_id": "446D16B1-8DAD-4870-A748-402EA43D788C",
+              "serialized_property_values": [
+                {
+                  "value_size": 29,
+                  "id": 104,
+                  "value": "69341581-5B9C-456C-90FC-11DEF4BA1F2F",
+                  "value_type": "VT_CLSID"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "size": 1679,
+      "info": {
+        "guid": "00021401-0000-0000-C000-000000000046"
+      }
+    },
+    {
+      "type": "lnk",
+      "status": "success",
+      "modification_time": "2018-09-15T09:06:02.110054+00:00",
+      "header": {
+        "guid": "00021401-0000-0000-C000-000000000046",
+        "r_link_flags": 10502371,
+        "r_file_flags": 32,
+        "modification_time": "2018-09-15T09:06:02.110054+00:00",
+        "access_time": "2018-09-15T09:06:02.110054+00:00",
+        "creation_time": "2018-09-15T09:06:02.110054+00:00",
+        "file_size": 826704,
+        "icon_index": -20805,
+        "windowstyle": "SW_SHOWNORMAL",
+        "hotkey": "UNSET - UNSET {0x0000}",
+        "r_hotkey": 0,
+        "link_flags": [
+          "HasTargetIDList",
+          "HasLinkInfo",
+          "HasArguments",
+          "HasIconLocation",
+          "IsUnicode",
+          "HasExpIcon",
+          "DisableKnownFolderTracking",
+          "AllowLinkToLink"
+        ],
+        "file_flags": [
+          "FILE_ATTRIBUTE_ARCHIVE"
+        ],
+        "header_size": 76,
+        "reserved0": 0,
+        "reserved1": 0,
+        "reserved2": 0
+      },
+      "target": {
+        "size": 397,
+        "items": [
+          {
+            "class": "Root Folder",
+            "sort_index": "My Computer",
+            "guid": "20D04FE0-3AEA-1069-A2D8-08002B30309D"
+          },
+          {
+            "class": "Volume Item",
+            "flags": "0xf",
+            "data": "C:\\"
+          },
+          {
+            "class": "File entry",
+            "flags": "Is directory",
+            "file_size": 0,
+            "modification_time": "2020-12-18T15:20:24+00:00",
+            "file_attribute_flags": 17,
+            "primary_name": "PROGRA~1"
+          },
+          {
+            "class": "File entry",
+            "flags": "Is directory",
+            "file_size": 0,
+            "modification_time": "2018-09-15T09:06:04+00:00",
+            "file_attribute_flags": 16,
+            "primary_name": "INTERN~1"
+          },
+          {
+            "class": "File entry",
+            "flags": "Is file",
+            "file_size": 826704,
+            "modification_time": "2018-09-15T09:06:04+00:00",
+            "file_attribute_flags": 32,
+            "primary_name": "iexplore.exe"
+          }
+        ],
+        "index": 78
+      },
+      "link_info": {
+        "link_info_size": 94,
+        "link_info_header_size": 28,
+        "link_info_flags": 1,
+        "volume_id_offset": 28,
+        "local_base_path_offset": 45,
+        "common_network_relative_link_offset": 0,
+        "common_path_suffix_offset": 93,
+        "local_base_path": "C:\\Program Files\\internet explorer\\iexplore.exe",
+        "common_path_suffix": "",
+        "location_info": {
+          "volume_id_size": 17,
+          "r_drive_type": 3,
+          "volume_label_offset": 16,
+          "drive_serial_number": "0x420d09c",
+          "drive_type": "DRIVE_FIXED",
+          "volume_label": ""
+        },
+        "location": "Local"
+      },
+      "data": {
+        "command_line_arguments": "-restore",
+        "icon_location": "C:\\Windows\\SYSTEM32\\IEFRAME.dll",
+        "size": 82
+      },
+      "extra": {
+        "ICON_LOCATION_BLOCK": {
+          "size": 788,
+          "target_ansi": "%SystemRoot%\\SYSTEM32\\IEFRAME.dll",
+          "target_unicode": "%SystemRoot%\\SYSTEM32\\IEFRAME.dll"
+        },
+        "DISTRIBUTED_LINK_TRACKER_BLOCK": {
+          "size": 96,
+          "length": 88,
+          "version": 0,
+          "machine_identifier": "apps2019-sp",
+          "droid_volume_identifier": "A09F0A4A-FE8A-44F4-A8D0-C14A2E0FA8C4",
+          "droid_file_identifier": "7ACB897A-411B-11EB-8890-00155D0664F9",
+          "droid_file_timestamp": "2020-12-18T10:26:24.501388+00:00",
+          "droid_file_mft_seq": 37000,
+          "droid_file_mac": "00:15:5D:06:64:F9",
+          "droid_file_vendor": "Microsoft Corporation",
+          "birth_droid_volume_identifier": "A09F0A4A-FE8A-44F4-A8D0-C14A2E0FA8C4",
+          "birth_droid_file_identifier": "7ACB897A-411B-11EB-8890-00155D0664F9",
+          "birth_droid_file_timestamp": "2020-12-18T10:26:24.501388+00:00",
+          "birth_droid_file_mft_seq": 37000,
+          "birth_droid_file_mac": "00:15:5D:06:64:F9",
+          "birth_droid_file_vendor": "Microsoft Corporation"
+        },
+        "METADATA_PROPERTIES_BLOCK": {
+          "size": 154,
+          "property_store": [
+            {
+              "storage_size": 85,
+              "version": "0x53505331",
+              "format_id": "F29F85E0-4FF9-1068-AB91-08002B27B3D9",
+              "serialized_property_values": [
+                {
+                  "value_size": 57,
+                  "id": 2,
+                  "value": "Reopen last session",
+                  "value_type": "VT_LPWSTR"
+                }
+              ]
+            },
+            {
+              "storage_size": 57,
+              "version": "0x53505331",
+              "format_id": "446D16B1-8DAD-4870-A748-402EA43D788C",
+              "serialized_property_values": [
+                {
+                  "value_size": 29,
+                  "id": 104,
+                  "value": "69341581-5B9C-456C-90FC-11DEF4BA1F2F",
+                  "value_type": "VT_CLSID"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "size": 1693,
+      "info": {
+        "guid": "00021401-0000-0000-C000-000000000046"
+      }
+    }
+  ]
+}

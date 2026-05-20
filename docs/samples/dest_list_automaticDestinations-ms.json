@@ -1,0 +1,47 @@
+{
+  "type": "automatic",
+  "status": "success",
+  "parser_version": "3.0.3",
+  "modification_time": null,
+  "filesystem": {
+    "name": "5a2098e080cf7ac4.automaticDestinations-ms",
+    "path": "/tmp/abcdefg/5a2098e080cf7ac4.automaticDestinations-ms",
+    "hostname": "jumplist_parser",
+    "size": 2560,
+    "modification_time": "2023-07-25T14:04:38+00:00",
+    "access_time": "2023-07-25T14:06:47+00:00",
+    "creation_time": "2023-07-25T14:04:47+00:00",
+    "application": {
+      "app_id": "5a2098e080cf7ac4",
+      "name": "OneDrive ?? (ClassicMru)"
+    }
+  },
+  "dest_list_property_store": {
+    "header": 87,
+    "storage_size": 83,
+    "version": "0x53505331",
+    "format_id": "D5CDD505-2E9C-101B-9397-08002B2CF9AE",
+    "serialized_property_values": [
+      {
+        "value_size": 55,
+        "name_size": 30,
+        "name": "ItemsToRemove/",
+        "value": "[]",
+        "value_type": "VT_LPWSTR"
+      }
+    ]
+  },
+  "dest_list": {
+    "file_version": 5,
+    "total_current_entries": 0,
+    "total_pinned_entries": 0,
+    "reserved0": 0.0,
+    "last_issued_id_num": 0,
+    "reserved1": 0,
+    "number_of_actions": 0,
+    "reserved2": 0,
+    "os": "Win11",
+    "orphan_entries": []
+  },
+  "lnk": []
+}
