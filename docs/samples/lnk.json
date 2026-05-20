@@ -1,0 +1,274 @@
+{
+  "type": "lnk",
+  "status": "success",
+  "parser_version": "3.0.3",
+  "modification_time": "2012-07-26T03:20:50.264000+00:00",
+  "filesystem": {
+    "name": "Windows PowerShell.lnk",
+    "path": "/tmp/abcdefg/Windows PowerShell.lnk",
+    "hostname": "jumplist_parser",
+    "size": 2539,
+    "modification_time": "2023-07-25T14:11:33+00:00",
+    "access_time": "2023-07-25T14:06:47+00:00",
+    "creation_time": "2023-07-25T14:04:47+00:00",
+    "application": {
+      "app_id": null,
+      "name": null
+    }
+  },
+  "lnk": [
+    {
+      "type": "lnk",
+      "status": "success",
+      "modification_time": "2012-07-26T03:20:50.264000+00:00",
+      "header": {
+        "guid": "00021401-0000-0000-C000-000000000046",
+        "r_link_flags": 735,
+        "r_file_flags": 32,
+        "modification_time": "2012-07-26T03:20:50.264000+00:00",
+        "access_time": "2012-07-26T01:26:44.455823+00:00",
+        "creation_time": "2012-07-26T01:26:44.455823+00:00",
+        "file_size": 454656,
+        "icon_index": 0,
+        "windowstyle": "SW_SHOWNORMAL",
+        "hotkey": "UNSET - UNSET {0x0000}",
+        "r_hotkey": 0,
+        "link_flags": [
+          "HasTargetIDList",
+          "HasLinkInfo",
+          "HasName",
+          "HasRelativePath",
+          "HasWorkingDir",
+          "HasIconLocation",
+          "IsUnicode",
+          "HasExpString"
+        ],
+        "file_flags": [
+          "FILE_ATTRIBUTE_ARCHIVE"
+        ],
+        "header_size": 76,
+        "reserved0": 0,
+        "reserved1": 0,
+        "reserved2": 0
+      },
+      "target": {
+        "size": 497,
+        "items": [
+          {
+            "class": "Root Folder",
+            "sort_index": "My Computer",
+            "guid": "20D04FE0-3AEA-1069-A2D8-08002B30309D"
+          },
+          {
+            "class": "Volume Item",
+            "flags": "0xf",
+            "data": "C:\\"
+          },
+          {
+            "class": "File entry",
+            "flags": "Is directory",
+            "file_size": 0,
+            "modification_time": "2013-06-07T22:00:04+00:00",
+            "file_attribute_flags": 48,
+            "primary_name": "Windows"
+          },
+          {
+            "class": "File entry",
+            "flags": "Is directory",
+            "file_size": 0,
+            "modification_time": "2013-06-07T00:42:58+00:00",
+            "file_attribute_flags": 48,
+            "primary_name": "System32"
+          },
+          {
+            "class": "File entry",
+            "flags": "Is directory",
+            "file_size": 0,
+            "modification_time": "2012-07-26T08:13:00+00:00",
+            "file_attribute_flags": 16,
+            "primary_name": "WINDOW~1"
+          },
+          {
+            "class": "File entry",
+            "flags": "Is directory",
+            "file_size": 0,
+            "modification_time": "2013-05-24T21:47:22+00:00",
+            "file_attribute_flags": 20,
+            "primary_name": "v1.0"
+          },
+          {
+            "class": "File entry",
+            "flags": "Is file",
+            "file_size": 454656,
+            "modification_time": "2012-07-26T03:20:52+00:00",
+            "file_attribute_flags": 32,
+            "primary_name": "powershell.exe"
+          }
+        ],
+        "index": 78
+      },
+      "link_info": {
+        "link_info_size": 110,
+        "link_info_header_size": 28,
+        "link_info_flags": 1,
+        "volume_id_offset": 28,
+        "local_base_path_offset": 51,
+        "common_network_relative_link_offset": 0,
+        "common_path_suffix_offset": 109,
+        "local_base_path": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "common_path_suffix": "",
+        "location_info": {
+          "volume_id_size": 23,
+          "r_drive_type": 3,
+          "volume_label_offset": 16,
+          "drive_serial_number": "0x74ee2d73",
+          "drive_type": "DRIVE_FIXED",
+          "volume_label": "OSDisk"
+        },
+        "location": "Local"
+      },
+      "data": {
+        "description": "Performs object-based (command-line) functions",
+        "relative_path": "..\\..\\..\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "working_directory": "%HOMEDRIVE%%HOMEPATH%",
+        "icon_location": "%SystemRoot%\\system32\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "size": 386
+      },
+      "extra": {
+        "ENVIRONMENTAL_VARIABLES_LOCATION_BLOCK": {
+          "size": 788,
+          "target_ansi": "%SystemRoot%\\system32\\WindowsPowerShell\\v1.0\\powershell.exe",
+          "target_unicode": "%SystemRoot%\\system32\\WindowsPowerShell\\v1.0\\powershell.exe"
+        },
+        "SPECIAL_FOLDER_LOCATION_BLOCK": {
+          "size": 16,
+          "special_folder_id": 37,
+          "offset": 213,
+          "special_folder_name": "System"
+        },
+        "KNOWN_FOLDER_LOCATION_BLOCK": {
+          "size": 28,
+          "known_folder_id": "1AC14E77-02E7-4E5D-B744-2EB1AE5198B7",
+          "offset": 213
+        },
+        "DISTRIBUTED_LINK_TRACKER_BLOCK": {
+          "size": 96,
+          "length": 88,
+          "version": 0,
+          "machine_identifier": "leeholm16",
+          "droid_volume_identifier": "BBB29A9A-55B6-4A2D-88EB-32EAD77C6740",
+          "droid_file_identifier": "5C2307D9-3369-11E2-BE70-001CC42DF40B",
+          "droid_file_timestamp": "2012-11-20T23:23:58.491848+00:00",
+          "droid_file_mft_seq": 28862,
+          "droid_file_mac": "00:1C:C4:2D:F4:0B",
+          "droid_file_vendor": "Hewlett Packard",
+          "birth_droid_volume_identifier": "BBB29A9A-55B6-4A2D-88EB-32EAD77C6740",
+          "birth_droid_file_identifier": "5C2307D9-3369-11E2-BE70-001CC42DF40B",
+          "birth_droid_file_timestamp": "2012-11-20T23:23:58.491848+00:00",
+          "birth_droid_file_mft_seq": 28862,
+          "birth_droid_file_mac": "00:1C:C4:2D:F4:0B",
+          "birth_droid_file_vendor": "Hewlett Packard"
+        },
+        "CONSOLE_PROPERTIES_BLOCK": {
+          "size": 204,
+          "fill_attributes": 86,
+          "popup_fill_attributes": 243,
+          "screen_buffer_size_x": 120,
+          "screen_buffer_size_y": 3000,
+          "window_size_x": 120,
+          "window_size_y": 50,
+          "window_origin_x": 0,
+          "window_origin_y": 0,
+          "font_size": 917504,
+          "font_family": 54,
+          "font_weight": 400,
+          "face_name": "Consolas",
+          "cursor_size": 25,
+          "full_screen": 0,
+          "quick_edit": 1,
+          "insert_mode": 1,
+          "auto_position": 1,
+          "history_buffer_size": 50,
+          "number_of_history_buffers": 4,
+          "history_no_dup": 0,
+          "color_table": 0
+        },
+        "METADATA_PROPERTIES_BLOCK": {
+          "size": 332,
+          "property_store": [
+            {
+              "storage_size": 145,
+              "version": "0x53505331",
+              "format_id": "46588AE2-4CBC-4338-BBFC-139326986DCE",
+              "serialized_property_values": [
+                {
+                  "value_size": 117,
+                  "id": 4,
+                  "value": "S-1-5-21-2127521184-1604012920-1887927527-1180643",
+                  "value_type": "VT_LPWSTR"
+                }
+              ]
+            },
+            {
+              "storage_size": 130,
+              "version": "0x53505331",
+              "format_id": "0C570607-0396-43DE-9D61-E321D7DF5026",
+              "serialized_property_values": [
+                {
+                  "value_size": 17,
+                  "id": 3,
+                  "value": true,
+                  "value_type": "VT_BOOL"
+                },
+                {
+                  "value_size": 17,
+                  "id": 1,
+                  "value": true,
+                  "value_type": "VT_BOOL"
+                },
+                {
+                  "value_size": 17,
+                  "id": 2,
+                  "value": true,
+                  "value_type": "VT_BOOL"
+                },
+                {
+                  "value_size": 17,
+                  "id": 4,
+                  "value": true,
+                  "value_type": "VT_BOOL"
+                },
+                {
+                  "value_size": 17,
+                  "id": 6,
+                  "value": 255,
+                  "value_type": "VT_I2"
+                },
+                {
+                  "value_size": 17,
+                  "id": 5,
+                  "value": true,
+                  "value_type": "VT_BOOL"
+                }
+              ]
+            },
+            {
+              "storage_size": 45,
+              "version": "0x53505331",
+              "format_id": "9F4C2855-9F79-4B39-A8D0-E1D42DE1D5F3",
+              "serialized_property_values": [
+                {
+                  "value_size": 17,
+                  "id": 18,
+                  "value": 1,
+                  "value_type": "VT_UI4"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "size": 2539
+    }
+  ]
+}

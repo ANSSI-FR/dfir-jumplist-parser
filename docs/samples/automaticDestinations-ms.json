@@ -1,0 +1,335 @@
+{
+  "type": "automatic",
+  "status": "success",
+  "parser_version": "3.0.3",
+  "modification_time": "2019-09-05T16:56:09.473086+00:00",
+  "filesystem": {
+    "name": "f01b4d95cf55d32a.automaticDestinations-ms",
+    "path": "/tmp/abcdefg/f01b4d95cf55d32a.automaticDestinations-ms",
+    "hostname": "jumplist_parser",
+    "size": 3584,
+    "modification_time": "2023-07-25T14:04:47+00:00",
+    "access_time": "2023-07-25T14:06:47+00:00",
+    "creation_time": "2023-07-25T14:04:47+00:00",
+    "application": {
+      "app_id": "f01b4d95cf55d32a",
+      "name": "Windows Explorer Windows 8.1"
+    }
+  },
+  "dest_list_property_store": null,
+  "dest_list": {
+    "file_version": 1,
+    "total_current_entries": 2,
+    "total_pinned_entries": 0,
+    "reserved0": 5.0,
+    "last_issued_id_num": 2,
+    "reserved1": 0,
+    "number_of_actions": 2,
+    "reserved2": 0,
+    "os": "Win7/8",
+    "orphan_entries": []
+  },
+  "lnk": [
+    {
+      "type": "lnk",
+      "status": "success",
+      "modification_time": "2019-07-22T13:16:39.916182+00:00",
+      "header": {
+        "guid": "00021401-0000-0000-C000-000000000046",
+        "r_link_flags": 10485891,
+        "r_file_flags": 32,
+        "modification_time": "2019-07-22T13:16:39.228684+00:00",
+        "access_time": "2019-07-22T13:16:39.228684+00:00",
+        "creation_time": "2019-07-22T13:16:39.228684+00:00",
+        "file_size": 950,
+        "icon_index": 0,
+        "windowstyle": "SW_SHOWNORMAL",
+        "hotkey": "UNSET - UNSET {0x0000}",
+        "r_hotkey": 0,
+        "link_flags": [
+          "HasTargetIDList",
+          "HasLinkInfo",
+          "IsUnicode",
+          "DisableKnownFolderTracking",
+          "AllowLinkToLink"
+        ],
+        "file_flags": [
+          "FILE_ATTRIBUTE_ARCHIVE"
+        ],
+        "header_size": 76,
+        "reserved0": 0,
+        "reserved1": 0,
+        "reserved2": 0
+      },
+      "target": {
+        "size": 54,
+        "items": [
+          {
+            "class": "Root Folder",
+            "sort_index": "Unknown-RootFolder.SORT_INDEX[84]",
+            "guid": "031E4825-7B94-4DC3-B131-E946B44C8DD5"
+          },
+          {
+            "class": "Unknown-TargetFactory.SHELL_ITEM_CLASSES[0]",
+            "size": 32,
+            "strings": [
+              "J3F",
+              ".|"
+            ],
+            "identifiers": {},
+            "class_type_indicator": 0,
+            "data_base64": "IAAAABoA7rv+IwAAEAB9sQ170pyTSpczRsyJAi58AAAAAA==",
+            "data_sha256": "0ea3c7b10220568bb4898f560dbce411c8e6865be46c7dfc4a095a9904d44c69"
+          }
+        ],
+        "index": 78
+      },
+      "link_info": {
+        "link_info_size": 134,
+        "link_info_header_size": 28,
+        "link_info_flags": 1,
+        "volume_id_offset": 28,
+        "local_base_path_offset": 45,
+        "common_network_relative_link_offset": 0,
+        "common_path_suffix_offset": 133,
+        "local_base_path": "C:\\Users\\Administrator\\AppData\\Roaming\\Microsoft\\Windows\\Libraries\\Documents.library-ms",
+        "common_path_suffix": "",
+        "location_info": {
+          "volume_id_size": 17,
+          "r_drive_type": 3,
+          "volume_label_offset": 16,
+          "drive_serial_number": "0xb02544c8",
+          "drive_type": "DRIVE_FIXED",
+          "volume_label": ""
+        },
+        "location": "Local"
+      },
+      "data": {
+        "size": 0
+      },
+      "extra": {
+        "METADATA_PROPERTIES_BLOCK": {
+          "size": 85,
+          "property_store": [
+            {
+              "storage_size": 28,
+              "version": "0x53505331",
+              "format_id": "46588AE2-4CBC-4338-BBFC-139326986DCE",
+              "serialized_property_values": []
+            },
+            {
+              "storage_size": 45,
+              "version": "0x53505331",
+              "format_id": "9F4C2855-9F79-4B39-A8D0-E1D42DE1D5F3",
+              "serialized_property_values": [
+                {
+                  "value_size": 17,
+                  "id": 7,
+                  "value": true,
+                  "value_type": "VT_BOOL"
+                }
+              ]
+            }
+          ]
+        },
+        "DISTRIBUTED_LINK_TRACKER_BLOCK": {
+          "size": 96,
+          "length": 88,
+          "version": 0,
+          "machine_identifier": "win-sufp3495vrt",
+          "droid_volume_identifier": "882D2458-97B6-439A-A75A-3B3B5CC33586",
+          "droid_file_identifier": "197D3599-AC82-11E9-80B5-00155D066474",
+          "droid_file_timestamp": "2019-07-22T13:10:38.487286+00:00",
+          "droid_file_mft_seq": 46464,
+          "droid_file_mac": "00:15:5D:06:64:74",
+          "droid_file_vendor": "Microsoft Corporation",
+          "birth_droid_volume_identifier": "882D2458-97B6-439A-A75A-3B3B5CC33586",
+          "birth_droid_file_identifier": "197D3599-AC82-11E9-80B5-00155D066474",
+          "birth_droid_file_timestamp": "2019-07-22T13:10:38.487286+00:00",
+          "birth_droid_file_mft_seq": 46464,
+          "birth_droid_file_mac": "00:15:5D:06:64:74",
+          "birth_droid_file_vendor": "Microsoft Corporation"
+        }
+      },
+      "size": 451,
+      "info": {
+        "entry_id_number": "1",
+        "checksum": "a129316612102091",
+        "droid_volume_identifier": "882D2458-97B6-439A-A75A-3B3B5CC33586",
+        "droid_file_identifier": "197D3599-AC82-11E9-80B5-00155D066474",
+        "droid_file_timestamp": "2019-07-22T13:10:38.487286+00:00",
+        "droid_file_mft_seq": 46464,
+        "droid_file_mac": "00:15:5D:06:64:74",
+        "droid_file_vendor": "Microsoft Corporation",
+        "birth_droid_volume_identifier": "882D2458-97B6-439A-A75A-3B3B5CC33586",
+        "birth_droid_file_identifier": "197D3599-AC82-11E9-80B5-00155D066474",
+        "birth_droid_file_timestamp": "2019-07-22T13:10:38.487286+00:00",
+        "birth_droid_file_mft_seq": 46464,
+        "birth_droid_file_mac": "00:15:5D:06:64:74",
+        "birth_droid_file_vendor": "Microsoft Corporation",
+        "hostname": "win-sufp3495vrt",
+        "modification_time": "2019-07-22T13:16:39.916182+00:00",
+        "pin_value": 4294967295,
+        "pin_status": "Unpinned",
+        "access_counter": 4.0,
+        "data": "::{031E4825-7B94-4DC3-B131-E946B44C8DD5}\\Documents.library-ms",
+        "name": "UsersLibraries\\Documents.library-ms"
+      }
+    },
+    {
+      "type": "lnk",
+      "status": "success",
+      "modification_time": "2019-09-05T16:56:09.473086+00:00",
+      "header": {
+        "guid": "00021401-0000-0000-C000-000000000046",
+        "r_link_flags": 10485891,
+        "r_file_flags": 16,
+        "modification_time": "2019-09-05T16:51:39.855664+00:00",
+        "access_time": "2019-09-05T16:51:39.855664+00:00",
+        "creation_time": "2013-08-22T13:36:16.041075+00:00",
+        "file_size": 655360,
+        "icon_index": 0,
+        "windowstyle": "SW_SHOWNORMAL",
+        "hotkey": "UNSET - UNSET {0x0000}",
+        "r_hotkey": 0,
+        "link_flags": [
+          "HasTargetIDList",
+          "HasLinkInfo",
+          "IsUnicode",
+          "DisableKnownFolderTracking",
+          "AllowLinkToLink"
+        ],
+        "file_flags": [
+          "FILE_ATTRIBUTE_DIRECTORY"
+        ],
+        "header_size": 76,
+        "reserved0": 0,
+        "reserved1": 0,
+        "reserved2": 0
+      },
+      "target": {
+        "size": 223,
+        "items": [
+          {
+            "class": "Root Folder",
+            "sort_index": "My Computer",
+            "guid": "20D04FE0-3AEA-1069-A2D8-08002B30309D"
+          },
+          {
+            "class": "Volume Item",
+            "flags": "0xf",
+            "data": "C:\\"
+          },
+          {
+            "class": "File entry",
+            "flags": "Is directory",
+            "file_size": 0,
+            "modification_time": null,
+            "file_attribute_flags": 16,
+            "primary_name": "Windows"
+          },
+          {
+            "class": "File entry",
+            "flags": "Is directory",
+            "file_size": 0,
+            "modification_time": null,
+            "file_attribute_flags": 16,
+            "primary_name": "system32"
+          }
+        ],
+        "index": 78
+      },
+      "link_info": {
+        "link_info_size": 66,
+        "link_info_header_size": 28,
+        "link_info_flags": 1,
+        "volume_id_offset": 28,
+        "local_base_path_offset": 45,
+        "common_network_relative_link_offset": 0,
+        "common_path_suffix_offset": 65,
+        "local_base_path": "C:\\Windows\\system32",
+        "common_path_suffix": "",
+        "location_info": {
+          "volume_id_size": 17,
+          "r_drive_type": 3,
+          "volume_label_offset": 16,
+          "drive_serial_number": "0xb02544c8",
+          "drive_type": "DRIVE_FIXED",
+          "volume_label": ""
+        },
+        "location": "Local"
+      },
+      "data": {
+        "size": 0
+      },
+      "extra": {
+        "METADATA_PROPERTIES_BLOCK": {
+          "size": 85,
+          "property_store": [
+            {
+              "storage_size": 28,
+              "version": "0x53505331",
+              "format_id": "46588AE2-4CBC-4338-BBFC-139326986DCE",
+              "serialized_property_values": []
+            },
+            {
+              "storage_size": 45,
+              "version": "0x53505331",
+              "format_id": "9F4C2855-9F79-4B39-A8D0-E1D42DE1D5F3",
+              "serialized_property_values": [
+                {
+                  "value_size": 17,
+                  "id": 7,
+                  "value": true,
+                  "value_type": "VT_BOOL"
+                }
+              ]
+            }
+          ]
+        },
+        "DISTRIBUTED_LINK_TRACKER_BLOCK": {
+          "size": 96,
+          "length": 88,
+          "version": 0,
+          "machine_identifier": "w2012r2sp1",
+          "droid_volume_identifier": "882D2458-97B6-439A-A75A-3B3B5CC33586",
+          "droid_file_identifier": "D80D948E-CFFC-11E9-80B8-00155D066474",
+          "droid_file_timestamp": "2019-09-05T16:47:27.498766+00:00",
+          "droid_file_mft_seq": 47232,
+          "droid_file_mac": "00:15:5D:06:64:74",
+          "droid_file_vendor": "Microsoft Corporation",
+          "birth_droid_volume_identifier": "882D2458-97B6-439A-A75A-3B3B5CC33586",
+          "birth_droid_file_identifier": "D80D948E-CFFC-11E9-80B8-00155D066474",
+          "birth_droid_file_timestamp": "2019-09-05T16:47:27.498766+00:00",
+          "birth_droid_file_mft_seq": 47232,
+          "birth_droid_file_mac": "00:15:5D:06:64:74",
+          "birth_droid_file_vendor": "Microsoft Corporation"
+        }
+      },
+      "size": 552,
+      "info": {
+        "entry_id_number": "2",
+        "checksum": "7c94a141c2724ec4",
+        "droid_volume_identifier": "882D2458-97B6-439A-A75A-3B3B5CC33586",
+        "droid_file_identifier": "D80D948E-CFFC-11E9-80B8-00155D066474",
+        "droid_file_timestamp": "2019-09-05T16:47:27.498766+00:00",
+        "droid_file_mft_seq": 47232,
+        "droid_file_mac": "00:15:5D:06:64:74",
+        "droid_file_vendor": "Microsoft Corporation",
+        "birth_droid_volume_identifier": "882D2458-97B6-439A-A75A-3B3B5CC33586",
+        "birth_droid_file_identifier": "D80D948E-CFFC-11E9-80B8-00155D066474",
+        "birth_droid_file_timestamp": "2019-09-05T16:47:27.498766+00:00",
+        "birth_droid_file_mft_seq": 47232,
+        "birth_droid_file_mac": "00:15:5D:06:64:74",
+        "birth_droid_file_vendor": "Microsoft Corporation",
+        "hostname": "w2012r2sp1",
+        "modification_time": "2019-09-05T16:56:09.473086+00:00",
+        "pin_value": 4294967295,
+        "pin_status": "Unpinned",
+        "access_counter": 1.0,
+        "data": "C:\\Windows\\system32",
+        "name": "C:\\Windows\\system32"
+      }
+    }
+  ]
+}

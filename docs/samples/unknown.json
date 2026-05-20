@@ -1,0 +1,20 @@
+{
+  "type": "error",
+  "status": "failed",
+  "parser_version": "3.0.3",
+  "message": "UnparsableJumpListError: Unknown JumpList file.",
+  "filesystem": {
+    "name": "02 - Windows Terminal.lnk",
+    "path": "/tmp/abcdefg/02 - Windows Terminal.lnk",
+    "hostname": "jumplist_parser",
+    "size": 654,
+    "modification_time": "2023-07-25T14:11:35+00:00",
+    "access_time": "2023-07-25T14:06:47+00:00",
+    "creation_time": "2023-07-25T14:04:47+00:00",
+    "application": {
+      "app_id": null,
+      "name": null
+    }
+  },
+  "lnk": []
+}
